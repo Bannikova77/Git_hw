@@ -1,0 +1,5 @@
+Automation frameworks creation 
+CI/CD
+JS
+Typescript
+etc
