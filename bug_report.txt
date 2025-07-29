@@ -1,1 +1,10 @@
+Bug report should consist of:
+Id
+Description
+Steps 
+ER
+AR
+Screeens if needed
+Attachments
+
 
