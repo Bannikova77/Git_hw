@@ -1,0 +1,11 @@
+Bug report should consist of:
+Id
+Description
+Steps 
+ER
+AR
+Screeens if needed
+Attachments if needed
+(report for second branch)
+
+
